@@ -1,4 +1,4 @@
-## Sou Guilherme Gradin. Seja bem-vindo(a) ao meu perfil 😁
+## Hi, I'm Guilherme Gradin 😁
 
  <div>
    <a href="https://github.com/gradinguilherme">
@@ -19,7 +19,7 @@
  
 <br>
  
-### Minhas redes!
+### Connect with me
  
 <div> 
   <a href="https://www.instagram.com/gradinguilherme/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
