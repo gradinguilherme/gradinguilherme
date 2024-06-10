@@ -3,7 +3,6 @@
  <div>
    <a href="https://github.com/gradinguilherme">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gradinguilherme&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-   <p></p>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gradinguilherme&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
